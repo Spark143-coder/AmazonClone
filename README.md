@@ -79,11 +79,6 @@ text
 
     All text, layout, and colors are for educational/research use only — not affiliated with Amazon.
 
-📷 Preview
-
-    ![Homepage Screenshot](AmazonFrontPage.png)
-    Example:
-
 📌 Future Improvements
 
     Add responsive design for mobile & tablet

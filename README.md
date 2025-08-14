@@ -81,7 +81,7 @@ text
 
 📷 Preview
 
-    ![alt text](AmazonFrontPage.png)
+    ![Homepage Screenshot](AmazonFrontPage.png)
     Example:
 
 📌 Future Improvements
